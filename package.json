@@ -1,0 +1,15 @@
+{
+  "name": "cloudbit-to-speech",
+  "version": "1.0.0",
+  "description": "app that uses Watson so synthesize speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kristinsalomon",
+  "license": "none",
+  "dependencies": {
+    "express": "^4.12.0",
+    "request": "^2.53.0"
+  }
+}
